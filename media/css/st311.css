@@ -1,0 +1,15 @@
+body {
+    background-color: #b00000;
+}
+
+.container {
+    background-color: white;
+}
+
+#head {
+    text-align: center;
+}
+
+#teacher_info {
+    float: right;
+}
